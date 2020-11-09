@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123417455554",
+    "firebase_url": "https://leadway-6e58e.firebaseio.com",
+    "project_id": "leadway-6e58e",
+    "storage_bucket": "leadway-6e58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123417455554:android:49d5ee6302629e5cffc45b",
+        "android_client_info": {
+          "package_name": "com.leadway.pensure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123417455554-3fqs66k46gnalfnod6ahgjff7j38t86s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0zYAm91X5tD5J9lImyTEzP2sZ9dMhOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123417455554-3fqs66k46gnalfnod6ahgjff7j38t86s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

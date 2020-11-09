@@ -1,0 +1,12 @@
+export const DARK_COLOR = '#000';
+export const PRIMARY_COLOR = '#f8822c';
+export const DARK_PRIMARY_COLOR = '#bf5300';
+export const SECONDARY_COLOR = '#fdc844'
+export const ACCENT_COLOR = '#4ca0d6'
+export const TERTIARY_COLOR = '#5d5d5d';
+// export const LIGHT_COLOR = '#e7e7e7';
+export const LIGHT_COLOR = '#EAEBEB';
+export const LIGHTER_COLOR = '#f4f4f4';
+export const RED_COLOR = '#D50000';
+export const GRADIENT_COLOR = ['#f8822c', '#fdc844'];
+export const DISABLE_GRADIENT_COLOR = ['#FFCC80', '#fdc844'];

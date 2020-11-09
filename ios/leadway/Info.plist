@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Pensure</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icon.png</string>
+		<string>icon_76.png</string>
+		<string>icon_152.png</string>
+		<string>icon_120.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0.6</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>3.0.19</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Pensure would like to access your music</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Pensure would like to access your bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Pensure would like to access your calender</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Pensure would like to access your camera</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Pensure would like to access your geolocation always and when in usage.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Pensure would like to access your geolocation always in usage.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Pensure would like to access your geolocation.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Pensure would like to access your geolocation when in usage.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Pensure would like to access your motion</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pensure would like to access your photo library</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Pensure would like to access your speech recognition</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Lato-Black.ttf</string>
+		<string>Lato-Bold.ttf</string>
+		<string>Lato-Light.ttf</string>
+		<string>Lato-Regular.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>Roboto_medium.ttf</string>
+		<string>Roboto.ttf</string>
+		<string>rubicon-icon-font.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
